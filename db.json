@@ -1,0 +1,1496 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "White bean",
+            "quantity": 1,
+            "description": "Buy a 1 kg White bean at a discounted price. This white bean is produced by small Congolese farmers. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681572372/cannellino-bio_s0vdhl.jpg",
+            "category": "legumes",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 2509,
+            "is_sale": true,
+            "discount": 30,
+            "badge": "-30",
+            "tags": [
+                "beans", "white beans", "legumes"
+            ]
+
+        },
+
+        {
+            "id": 2,
+            "title": "Cowpea",
+            "quantity": 1,
+            "description": "Buy a 1 kg Cowpea at a discounted price. This Cowpea is produced by small Congolese farmers. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580060/grains-de-nic3a9bc3a91_hs8wtm.jpg",
+            "category": "legumes",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 2049,
+            "is_sale": true,
+            "discount": 30,
+            "badge": "-30",
+            "tags": [
+                "cowpeas", "legumes", "peas"
+            ]
+
+        },
+
+        {
+            "id": 3,
+            "title": "Red bean",
+            "quantity": 1,
+            "description": "Buy a 1 kg Red bean at a discounted price. This Red bean is produced by small Congolese farmers. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580099/haricots_rouges_-_credit_zenia_nunez1_jk5dqv.png",
+            "category": "legumes",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 2049,
+            "is_sale": true,
+            "discount": 30,
+            "badge": "-30",
+            "tags": [
+                "red beans", "legumes", "beans"
+            ]
+
+        },
+
+        {
+            "id": 4,
+            "title": "Soy",
+            "quantity": 25,
+            "description": "Buy a Soy (25kg) at a discounted price. This Soy is produced by small Congolese farmers. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580523/t%C3%A9l%C3%A9chargement_1_j2kjao.jpg",
+            "category": "legumes",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 50049,
+            "is_sale": false,
+            "tags": [
+                "soy", "legumes", "beans"
+            ]
+
+        },
+
+        {
+            "id": 5,
+            "title": "Corn",
+            "quantity": 25,
+            "description": "Buy a Corn (25kg) at a discounted price. This Corn is produced by small Congolese farmers. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580250/Mais_jm8olx.jpg",
+            "category": "cereals",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 50049,
+            "is_sale": false,
+            "tags": [
+                "corn", "cereals", "maize"
+            ]
+
+        },
+
+        {
+            "id": 6,
+            "title": "Peanut",
+            "quantity": 50,
+            "description": "Buy a Peanut (50kg) at a discounted price. This Peanut is produced by small Congolese farmers. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580680/Uad05b05267e540ba94bcdc1ddd38746f6_vai2c5.jpg",
+            "category": "legumes",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 50049,
+            "is_sale": false,
+            "tags": [
+                "peanuts", "legumes", "nuts", "groundnuts"
+            ]
+
+        },
+
+        {
+            "id": 7,
+            "title": "Tomato - Grade B",
+            "quantity": 1,
+            "description": "Buy 1kg of solid, big and ripe Grade B Tomatoes at a discounted price. It is a mixture of 60% solid and 40% soft Tomatoes. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580360/R2x2ID8t1YxaKW66BOhlWXUPuOebNMYFEz4xrG6S_iwtfs2.jpg",
+            "images": [
+                
+                "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580680/Uad05b05267e540ba94bcdc1ddd38746f6_vai2c5.jpg", 
+            
+                "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580304/ola02775hag62dDIC1z9pS4l0t7HRfXuq2rWbi3F_syhnzc.jpg"
+            ],
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 1000,
+            "is_sale": true,
+            "discount": 30,
+            "badge": "-30",
+            "tags": [
+                "vegetables", "tomatoes"
+            ]
+
+        },
+
+        {
+            "id": 8,
+            "title": "Tomato - Grade A",
+            "quantity": 50,
+            "description": "Buy a 50kg basket of solid, big and ripe Jos Tomatoes at a discounted price. You can share with 9 other buyers and you get your portion the next day without waiting. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580360/R2x2ID8t1YxaKW66BOhlWXUPuOebNMYFEz4xrG6S_iwtfs2.jpg",
+
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 60049,
+            "is_sale": true,
+            "discount": 30,
+            "badge": "-30",
+            "tags": [
+                "vegetables", "tomatoes"
+            ]
+
+        },
+
+        {
+            "id": 9,
+            "title": "Tomato - Grade B",
+            "quantity": 50,
+            "description": "Buy a 50kg basket of solid, big and ripe Jos Tomatoes at a discounted price. You can share with 9 other buyers and you get your portion the next day without waiting. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580360/R2x2ID8t1YxaKW66BOhlWXUPuOebNMYFEz4xrG6S_iwtfs2.jpg",
+
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 60049,
+            "is_sale": true,
+            "discount": 30,
+            "badge": "-30",
+            "tags": [
+                "vegetables", "tomatoes"
+            ]
+
+        },
+
+        {
+            "id": 10,
+            "title": "Tomato - Grade A",
+            "quantity": 25,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681579973/GE63ICJKkxg5Y1cnVdXLDmHwDESfBsXhMcS6ilMh_aq1a2x.jpg",
+
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 30049,
+            "is_sale": true,
+            "discount": 30,
+            "badge": "-30",
+            "tags": [
+                "vegetables", "tomatoes"
+            ]
+
+        },
+
+        {
+            "id": 11,
+            "title": "Onions - Spring",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681570767/5d1e1a8b6f3e3_rfhl6x.jpg",
+            "description": "Buy a bunch of Spring Onions at a discounted price. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "specificity": "Très digestive, la ciboulette, comme l’oignon et l’ail, est riche en potassium, en eau et en fructosanes. Elle est diurétique, stimule l’élimination de l’eau par les reins et régule à long terme la tension artérielle. Riche en anti-oxydants, c’est aussi une précieuse alliée contre les cancers.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 3000,
+            "is_sale": true,
+            "discount": 16,
+            "badge": "-16",
+            "tags": [
+                "vegetables", "onions"
+            ]
+
+        },
+
+        {
+            "id": 12,
+            "title": "Pepper - Ata Rodo Grade B",
+            "quantity": 12.5,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580327/q6qpXv5FOiCWhNJpOxGv2UGAQJcWPNtfsRuunJ6U_w2tcvk.jpg",
+            "description": "Buy Grade B Ata Rodo Pepper at a discounted price. You can share with 3 other buyers and get your portion (s) the next day without waiting for others. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 22549,
+            "is_sale": true,
+            "discount": 20,
+            "badge": "-20",
+            "tags": [
+                "vegetables", "peppers"
+            ]
+
+        },
+
+        {
+            "id": 13,
+            "title": "Carrot - Washed",
+            "quantity": 40,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571017/5d1e07df188b3_ekqd3m.jpg",
+            "description": "Buy 40kg of healthy, fresh washed carrots at a discounted price. It can be shared with 3 other buyers and your get your share the next day without waiting for others. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "specificity": "A carrot weighs 125 grams on average. Long remained white and fibrous, it is now a beautiful orange-red and very tasty.\n In the kitchen, the carrot comes in the full range of textures and flavors. Baked au gratin or mashed, raw grated or cut into sticks, spicy, sweet, frozen… with it, anything is possible!\n The carrot is a real vegetable ally of well-being, both for children and for adults: a single serving of 100 grams covers up to 200% of our daily beta-carotene needs! Not to mention its many minerals.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 70049,
+            "is_sale": true,
+            "discount": 18,
+            "badge": "-18",
+            "tags": [
+                "vegetables", "carrots"
+            ]
+
+        },
+
+        {
+            "id": 14,
+            "title": "Sombo Bawa - Grade A",
+            "quantity": 20,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580293/O3dUbvHEgedqw0wreGvpJCPaiUCkmWj48KMBKN4p_wgxygl.jpg",
+            "description": "Buy 20kg Grade A Sombo at a discounted price. You can share with 3 other buyers and you get your portion the next day without waiting. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 30049,
+            "is_sale": true,
+            "discount": 13,
+            "badge": "-13",
+            "tags": [
+                "vegetables", "peppers", "sombo bawa"
+            ]
+
+        },
+
+        {
+            "id": 15,
+            "title": "Tatase Pepper - Grade A",
+            "quantity": 25,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681572354/bVCLIXzkN1vZuKxOAYpn5Dz1YeAGlWpVBW2Olj0T_uz2sfm.jpg",
+            "description": "Buy 25kg of Tatase at a discounted price. You can share with 4 other buyers and you get your portion the next day without waiting. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "specificity": "Pepper contains various vitamins (including vitamin A, E, C, K and PP) as well as Manganese, Iron and Copper. Taking chilli stimulates blood circulation and perspiration, thus it causes dilation of blood vessels and thins the blood. Chilli is antispasmodic and antiseptic, therefore it contains a lot of antioxidants.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 42049,
+            "is_sale": true,
+            "discount": 20,
+            "badge": "-20",
+            "tags": [
+                "vegetables", "peppers", "tatase pepper"
+            ]
+
+        },
+
+        {
+            "id": 16,
+            "title": "Okro",
+            "quantity": 15,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681654112/okro_jfdtxc.jpg",
+            "description": "Buy 15kg of Okro at a discounted price. You can share with 4 other buyers and you get your portion the next day without waiting. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 18299,
+            "is_sale": true,
+            "discount": 8,
+            "badge": "-8",
+            "tags": [
+                "vegetables", "okro"
+            ]
+
+        },
+
+        {
+            "id": 17,
+            "title": "Orange - Medium",
+            "quantity": 50,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571620/5ea5d4a3133ce_xswnwk.jpg",
+            "description": "Buy 50 pieces of Orange at a discounted price. You can share with 4 other buyers and you get your portion the next day without waiting. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy.",
+            "category": "fruits",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 12349,
+            "is_sale": true,
+            "discount": 10,
+            "badge": "-10",
+            "tags": [
+                "fruits", "oranges"
+            ]
+
+        },
+
+        {
+            "id": 18,
+            "title": "Orange - Small",
+            "quantity": 50,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571620/5ea5d4a3133ce_xswnwk.jpg",
+            "description": "Buy 50 pieces of Orange at a discounted price. You can share with 4 other buyers and you get your portion the next day without waiting. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy.",
+            "category": "fruits",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 15949,
+            "is_sale": true,
+            "discount": 10,
+            "badge": "-10",
+            "tags": [
+                "fruits", "oranges"
+            ]
+
+        },
+
+        {
+            "id": 19,
+            "title": "Tiger Nuts (Bag)",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571799/6040cf9314b92_vur5pl.jpg",
+            "description": "Buy a bag of Tiger Nuts at a discounted price. You can share with 4 other buyers and you get your portion the next day without waiting. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "legumes",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 68300,
+            "is_sale": true,
+            "discount": 8,
+            "badge": "-8",
+            "tags": [
+                "legumes", "nuts", "tiger nuts"
+            ]
+
+        },
+
+        {
+            "id": 20,
+            "title": "Dates (Paint Bucket)",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571943/6316f7263ab5a_kipxjp.jpg",
+            "description": "Buy a paint bucket of well-sourced Dates at a discounted price. It can be shared with another buyer and you get your share the next day without waiting for the other. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "fruit",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 10549,
+            "is_sale": true,
+            "discount": 12,
+            "badge": "-12",
+            "tags": [
+                "fruits", "dates"
+            ]
+
+        },
+
+        {
+            "id": 21,
+            "title": "Dates",
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571815/6040d36f2da74_qdzehq.jpg",
+            "description": "Buy 100kg of well-sourced Dates at a discounted price. It can be shared with 24 other buyers and you get your share the next day without waiting for others. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "fruits",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 110049,
+            "is_sale": true,
+            "discount": 12,
+            "badge": "-12",
+            "tags": [
+                "fruits", "dates"
+            ]
+
+        },
+
+        {
+            "id": 22,
+            "title": "Cucumber",
+            "quantity": 40,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681653885/cucumber_sgun0k.jpg",
+            "description": "Buy 40kg of fresh and well-sourced cucumber at a discounted price. It can be shared with 9 other buyers and you get your share the next day without waiting for others. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "specificity": "Cucumber is usually eaten raw, but it is also very tasty served cooked, as a side vegetable. For this, we cut it into small dice, which we steam or steam gently in a little fat. \n Rich in water, the cucumber is very thirst-quenching and low in calories. Moreover, well supplied with vitamins and minerals, it is an essential ally for daily fitness!",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 22049,
+            "is_sale": true,
+            "discount": 18,
+            "badge": "-18",
+            "tags": [
+                "vegetables", "cucumbers"
+            ]
+
+        },
+
+        {
+            "id": 23,
+            "title": "Lemon",
+            "quantity": 50,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571835/6040d5251de98_d6hbtc.jpg",
+            "description": "Buy 50 pieces of Lemons at a discounted price. You can share with another buyer and you get your portion(s) the next day without waiting for others. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "fruits",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 22049,
+            "is_sale": true,
+            "discount": 14,
+            "badge": "-14",
+            "tags": [
+                "fruits", "lemon"
+            ]
+
+        },
+
+        {
+            "id": 24,
+            "title": "Lemon - Foreign",
+            "quantity": 12,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571702/608fe8aee2480_ekferx.jpg",
+            "description": "Buy a dozen Foreign Lemons at a discounted price. You can share with 5 other buyers and you get your portion(s) the next day without waiting for others. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "fruits",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 5139,
+            "is_sale": true,
+            "discount": 13,
+            "badge": "-13",
+            "tags": [
+                "fruits", "lemon"
+            ]
+
+        },
+
+        {
+            "id": 25,
+            "title": "Agbalumo or Star Apple",
+            "quantity": 50,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571851/6040da94203cd_fffxql.jpg",
+            "description": "Buy 50 pieces of fresh, sweet and well-sourced Agbalumo, which can be shared between 2 buyers and you get yours the next day without waiting for others. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "fruits",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 3999,
+            "is_sale": true,
+            "discount": 10,
+            "badge": "-10",
+            "tags": [
+                "fruits", "apples", "agbalumo", "star apple"
+            ]
+
+        },
+
+        {
+            "id": 26,
+            "title": "Bambara Nut",
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571246/5d2dc84e903de_pn5bia.jpg",
+            "description": "Buy 100kg of fresh and well-sourced Bambara Nuts at a discounted price. It can be shared with another 19 other buyers and you get your share the next day without waiting for others. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "legumes",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 86300,
+            "is_sale": true,
+            "discount": 10,
+            "badge": "-10",
+            "tags": [
+                "legumes", "nuts", "Bambara Nut"
+            ]
+
+        },
+
+        {
+            "id": 27,
+            "title": "Pineapple (Big)",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681653605/pineapple_bnxldv.jpg",
+            "description": "Buy 12 pieces of Pineapple at a discounted price. You can share with 2 other buyers and you get your portion the next day without waiting.Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day. Please note that our Pineapples are sent unripe or half ripe to prolong shelf life. However you can request for ripe Pineapples.",
+            "category": "fruits",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 20249,
+            "is_sale": true,
+            "discount": 14,
+            "badge": "-14",
+            "tags": [
+                "fruits", "pineapples"
+            ]
+
+        },
+
+        {
+            "id": 28,
+            "title": "Coconut (Small)",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571209/5d1e17567ceaf_zoemjx.jpg",
+            "description": "Buy a dozen of small-sized fresh coconut at a discounted price. It can be shared with 2 other buyers and you get your share the next day without waiting for other. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "fruits",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 6049,
+            "is_sale": true,
+            "discount": 8,
+            "badge": "-8",
+            "tags": [
+                "fruits", "coconut", "nuts"
+            ]
+
+        },
+
+        {
+            "id": 29,
+            "title": "Black Pepper",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571473/5dc90ea3aa2a4_fzn7ju.jpg",
+            "images": [
+                
+                "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571473/5dc90ea3aa2a4_fzn7ju.jpg",
+                "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571482/5dc90ea3aa2f9_ixxx3l.jpg"
+        ],
+            "description": "Buy a kg of well-sourced black pepper at a discounted price. It can be shared with another buyer and you get your share the next day without waiting for the other. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "peppers",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 5549,
+            "is_sale": true,
+            "discount": 30,
+            "badge": "-30",
+            "tags": [
+                "peppers", "black pepper"
+            ]
+
+        },
+
+        {
+            "id": 30,
+            "title": "Ehuru",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681653384/ehuru_uhfufd.jpg",
+            "description": "Buy a pack of clean and well-sourced ehuru at a discounted price. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "legumes",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 2500,
+            "is_sale": true,
+            "discount": 33,
+            "badge": "-33",
+            "tags": [
+                "legumes", "nuts", "ehuru"
+            ]
+
+        },
+
+        {
+            "id": 31,
+            "title": "Suya Pepper",
+            "quantity": 3,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571492/5dd414443866d_ruh8gl.jpg",
+            "description": "Buy 3kg of Suya Pepper at a discounted price. You can share with 2 other buyers and you get your portion the next day without waiting. Our products are delivered to you in perfect condition. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "peppers",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 5100,
+            "is_sale": true,
+            "discount": 16,
+            "badge": "-16",
+            "tags": [
+                "peppers", "suya pepper"
+            ]
+
+        },
+
+        {
+            "id": 32,
+            "title": "Onions",
+            "quantity": 3,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681652424/onion_bwbvxd.jpg",
+            "description": "An onion weighs 100 grams on average. Depending on the variety, its weight varies, but also its shape, very round, elongated or slightly flattened, and its color, yellow, red or white: a veritable string of colors and aspects!\n French production is mainly concentrated in the north of the country, even if it is present on almost all of its terroirs. Only 2 out of 10 cultivated onions are early onions. \n Main ingredient or flavor enhancer, the onion is omnipresent in our kitchens, always at hand. \nWith a low caloric intake, the nutritional qualities of this vegetable are recognized. Rich in vitamins, minerals, trace elements and fibre, it is a source of well-being and balance.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 1549,
+            "is_sale": true,
+            "discount": 20,
+            "badge": "-20",
+            "tags": [
+                "vegetables", "onions"
+            ]
+
+        },
+
+        {
+            "id": 33,
+            "title": "Onions - Red",
+            "quantity": 50,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681572028/63133d4cf243f_wgqkv9.jpg",
+            "description": "Buy 50kg of Red Onions at a discounted price. You can share with 9 other buyers and you get your portion the next day without waiting. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 60049,
+            "is_sale": true,
+            "discount": 20,
+            "badge": "-20",
+            "tags": [
+                "vegetables", "onions", "red onions"
+            ]
+
+        },
+
+        {
+            "id": 34,
+            "title": "Potato - Sweet",
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580721/Un8HlMfqHBK6rkydy7ULHFwXMXPwIjbVYTwpg4ZK_mm0hnl.jpg",
+            "images": [
+                "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580721/Un8HlMfqHBK6rkydy7ULHFwXMXPwIjbVYTwpg4ZK_mm0hnl.jpg",
+                "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580667/Tout-savoir-sur-la-patate-douce_ru0bio.jpg"
+                
+            ],
+            "description": "Buy 100kg of Sweet Potatoes at a discounted price. You can share with 9 other buyers and you get your portion the next day without waiting. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "specificity": "The sweet potato is a large tuber with white or orange flesh. His skin is purplish-red.\n She is the real potato, and, biologically speaking, she has nothing to do with the potato.\n Nevertheless, it is cooked… like the potato, even if it is eaten in both sweet and savory preparations.\n Its slightly sweet flavor is reminiscent of carrots, chestnuts or even artichoke bottoms.",
+            "category": "tubers",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 30049,
+            "is_sale": true,
+            "discount": 21,
+            "badge": "-21",
+            "tags": [
+                "tubers", "potatoes", "sweet potatoes"
+            ]
+
+        },
+
+        {
+            "id": 35,
+            "title": "Potato",
+            "quantity": 100,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580316/pote_abc96x.png",
+            "images": [
+                "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580316/pote_abc96x.png",
+                "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571732/1200px-Pommes_de_terre_Monalisa_ymrsxr.png"
+            ],
+            "description": "A potato weighs between 80 and 320 grams depending on the size. The color of the skin and flesh varies from pale yellow to purple to pink. More or less large, the potato has a pulp with different textures depending on the variety.\n With a moderate caloric intake, the potato is very rich in carbohydrates. It also provides vitamins and nutrients. It is a real source of energy in winter.",
+            "category": "tubers",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 40049,
+            "is_sale": true,
+            "discount": 21,
+            "badge": "-21",
+            "tags": [
+                "tubers", "potatoes", "sweet potatoes"
+            ]
+
+        },
+
+        {
+            "id": 36,
+            "title": "Gari - Ijebu Premium",
+            "quantity": 50,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681572038/63133f20cef44_ilzaqa.jpg",
+            "description": "Buy 50kg of Premium Ijebu Garri at a discounted price. You can share with 9 other buyers and you get your portion the next day without waiting for others. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "cereals",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 28549,
+            "is_sale": true,
+            "discount": 17,
+            "badge": "-17",
+            "tags": [
+                "cereals", "ijebu garri", "garri"
+            ]
+
+        },
+
+        {
+            "id": 37,
+            "title": "Celery",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681572059/612977ab868e2_kl5tpv.jpg",
+            "description": "Buy a bunch of fresh, clean and well-sourced celery at a discounted price. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "specificity": "A stalk of celery weighs 30 grams on average. Unlike celeriac, it is cultivated for its very white and aromatic ribs, crunchy in the mouth.\n Low in calories, but rich in vitamins! Celery is a concentrate of essential nutrients, including calcium and vitamin C, essential nutrients for your daily tone.\n Bitten or cooked, the celery stalk pleasantly flavors all your dishes. Remember to reserve more space for it in your daily recipes, you will be surprised by its aromatic breadth.",
+            "category": "cereals",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 349,
+            "is_sale": true,
+            "discount": 10,
+            "badge": "-10",
+            "tags": [
+                "vegetables", "celery"
+            ]
+
+        },
+
+        {
+            "id": 38,
+            "title": "Kings vegetable oil",
+            "quantity": 25,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571610/5e4f015634e1c_fdmsge.png",
+            "description": "Buy 25 litres of Kings Vegetable Oil at a discounted price. Our products are delivered to you in perfect condition, undamaged and unexpired. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "cooking oil",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 222049,
+            "is_sale": true,
+            "discount": 20,
+            "badge": "-20",
+            "tags": [
+                "vegetable oil", "Kings vegetable oil", "cooking oil", "palm oil"
+            ]
+
+        },
+
+        {
+            "id": 39,
+            "title": "Palm Oil - local",
+            "quantity": 25,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571610/5e4f015634e1c_fdmsge.png",
+            "description": "Buy 25 litres of local Palm Oil at a discounted price. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "cooking oil",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 222049,
+            "is_sale": true,
+            "discount": 17,
+            "badge": "-17",
+            "tags": [
+                "vegetable oil", "cooking oil", "palm oil"
+            ]
+
+        },
+
+        {
+            "id": 40,
+            "title": "Frozen Turkey",
+            "quantity": 10,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571907/6040e8507870b_rwg2h5.jpg",
+            "description": "Buy Frozen Turkey at a discounted price. You can share with 4 other buyers and you get your portion the next day without waiting for others. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "poultry products",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 17049,
+            "is_sale": true,
+            "discount": 5,
+            "badge": "-5",
+            "tags": [
+                "turkey", "poultry products", "frozen turkey"
+            ]
+
+        },
+
+        {
+            "id": 41,
+            "title": "Cow Meat or Beef - With Bone",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571716/624d362b8bb71_kvejo3.jpg",
+            "description": "Buy a kg of fresh cow beef with bone at a discounted price. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day. Please note that our cow beef with bone is about 30% bone and 70% beef.",
+            "category": "livestock products",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 3649,
+            "is_sale": true,
+            "discount": 5,
+            "badge": "-5",
+            "tags": [
+                "beef", "livestock products", "cow meat", "bone", "meat"
+            ]
+
+        },
+
+        {
+            "id": 42,
+            "title": "Ram Meat",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571506/5dfc7a64a6d1d_xugaiw.jpg",
+            "images": [
+                "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571506/5dfc7a64a6d1d_xugaiw.jpg",
+                "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571516/5dfc7a64e501d_wdoauv.jpg",
+                "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571601/5dfc7a655f0aa_nzaope.jpg",
+                "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571543/5dfc7a65b9944_pzhjzj.jpg"
+            ],
+            "description": "Buy 3kg of frozen Ram Meat at a discounted price. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "livestock products",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 13549,
+            "is_sale": true,
+            "discount": 5,
+            "badge": "-5",
+            "tags": [
+                "ram", "livestock products", "meat", "sheep"
+            ]
+
+        },
+
+        {
+            "id": 43,
+            "title": "Poulet - Lap Orobo",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571893/6040e7f86db3d_czmrso.jpg",
+            "description": "Achetez un carton d'orobo de tour de poulet à un prix réduit. Un carton pèse entre 9-10kg et peut être partagé entre 4 acheteurs et vous obtenez votre part le lendemain sans attendre les autres. Nos produits vous sont livrés en parfait état, intacts et frais. Sinon, nous acceptons un remboursement s'il est en mauvais état et conforme à notre politique de remboursement. Commandez maintenant et faites-vous livrer chez vous le lendemain.",
+            "category": "poultry products",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 25549,
+            "is_sale": true,
+            "discount": 5,
+            "badge": "-5",
+            "tags": [
+                "chicken", "poultry products", "meat", "lap orobo", "poulet"
+            ]
+
+        },
+
+        {
+            "id": 44,
+            "title": "Laitue",
+            "quantity": 15,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681580738/yFXdeUKb1enQtc1JBYsf4TwYPtVptIiIDeGbtHe2_zsui65.jpg",
+            "description": "Achetez 15 kg de laitue à prix réduit. Vous pouvez partager avec 7 autres acheteurs et vous obtenez votre (vos) portion(s) le lendemain sans attendre les autres. Nos produits vous sont livrés en parfait état, intacts et frais. Sinon, nous acceptons un remboursement s'il est en mauvais état et conforme à notre politique de remboursement. Commandez maintenant et faites-vous livrer chez vous le lendemain.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 21049,
+            "is_sale": true,
+            "discount": 12,
+            "badge": "-12",
+            "tags": [
+                "vegetables", "laitue"
+            ]
+
+        },
+
+        {
+            "id": 45,
+            "title": "Tangerine - Clementine",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571671/60b1bc5566f8c_nq2sfz.jpg",
+            "description": "Buy a dozen of Clementine Tangerine at a discounted price. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "fruits",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 6249,
+            "is_sale": true,
+            "discount": 5,
+            "badge": "-5",
+            "tags": [
+                "fruits", "tangerine"
+            ]
+
+        },
+
+        {
+            "id": 46,
+            "title": "Cabbage (Jos) - Unpeeled",
+            "quantity": 25,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571929/6061cfd5ef7ac_gn1m7n.jpg",
+            "description": "Buy 25kg of fresh and well-sourced Unpeeled Jos Cabbage at a discounted price. It can be shared with 4 other buyers and you get your share the next day without waiting for the other. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "specificity": "A cabbage weighs 2 kg on average. Green, white or red, headed cabbage includes different varieties with smooth and dense foliage or large ribbed green leaves. This vegetable develops a distinctive taste in the mouth.\n With a low energy content, cabbage is a vegetable very rich in vitamins. It also provides fiber, thus constituting a vegetable ally of your well-being.\n Cabbage is eaten in different ways, associated with rustic and traditional dishes as well as more refined preparations. Most often steamed, it is quick and easy to prepare.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 13549,
+            "is_sale": true,
+            "discount": 30,
+            "badge": "-30",
+            "tags": [
+                "vegetables", "cabbages", "jos"
+            ]
+
+        },
+
+        {
+            "id": 47,
+            "title": "Fish - Frozen Croaker",
+            "quantity": 20,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571962/61824d8ac2f74_vucqj6.jpg",
+            "description": "Buy a carton of Frozen Croaker Fish at a discounted price. A carton contains 20kg of Frozen Croaker Fish. You can share with 4 other buyers and you get your portion(s) the next day without waiting for others. Our products are delivered to you in perfect condition, undamaged and fresh. Otherwise, we accept a refund if it is in bad shape and complies with our refund policy. Order now and have it delivered to your location the next day.",
+            "category": "fish",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 47049,
+            "is_sale": true,
+            "discount": 12,
+            "badge": "-12",
+            "tags": [
+                "fish", "frozen croaker"
+            ]
+
+        },
+
+        {
+            "id": 48,
+            "title": "egg pallet",
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681572111/1663248300Eggs_Big_ezlkgy.jpg",
+            "description": "Fresh eggs from pullets.\n Product is currently not available for lagos shipping.\n Only crate SKU is available for Ibadan delivery",
+            "category": "poultry products",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 3000,
+            "is_sale": true,
+            "discount": 30,
+            "badge": "-30",
+            "tags": [
+                "eggs", "egg pallet", "poultry products"
+            ]
+
+        },
+
+        {
+            "id": 49,
+            "title": "Green pepper",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571744/0000000004065_dkyrkf.jpg",
+            "description": "A variety of sweet pepper, the pepper produces large, fresh and colorful fruits.\n The color palette ranges from bright green to dark brown, passing through golden yellow or vermilion.\n The range of flavors ranges from bitter-pepper to sweet.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 3000,
+            "is_sale": false,
+            "tags": [
+                "green pepper", "pepper", "vegetables", "capsicum"
+            ]
+
+        },
+
+        {
+            "id": 50,
+            "title": "parsley",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681652155/parsley_k4wfyr.webp",
+            "description": "Parsley is a very fragrant aromatic herb: just rub it between your fingers to feel its characteristic fragrance caressing your nostrils. It exudes a warm, herbaceous flavor.\n Of a beautiful shiny green, its leaves form three narrow lobes. There are two main varieties of parsley: flat, tastier, and curly, more decorative. A third variety, less known, is consumed completely differently, it is tuberous parsley.\n Simple to integrate into a recipe, it is probably the most used herb in the kitchen.\n Parsley is one of your privileged well-being partners: just picked, it releases many nutrients.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 1549,
+            "is_sale": false,
+            "tags": [
+                "parsley", "vegetables"
+            ]
+
+        },
+
+        {
+            "id": 51,
+            "title": "Eggplant",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681651930/eggplant_cjqyrh.jpg",
+            "description": "An eggplant weighs 225 g on average. Its color, size and shape vary depending on the variety. The most common on the stalls is the purple eggplant, with white and soft flesh.\n Low in calories, eggplant contains fiber, minerals and vitamins in significant amounts. This vegetable colors and vitaminizes your dishes all summer long!\n Eggplant is an easy-going vegetable that is easy to cook. Its melting flesh goes well with a large number of savory preparations.\n Eggplant is one of the emblematic vegetables of sunny days and of Mediterranean cuisine.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 2549,
+            "is_sale": false,
+            "tags": [
+                "eggplant", "vegetables"
+            ]
+
+        },
+
+        {
+            "id": 52,
+            "title": "Sorrel",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681651758/sorrel_c5a1mz.jpg",
+            "description": "A perennial herb, sorrel is distinguished by its spearhead-shaped leaf.\n Fresh, tangy and sparkling, it is an original in many culinary preparations.\n A true concentrate of micronutrients, it is recognized for its benefits… even in small quantities.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 1549,
+            "is_sale": false,
+            "tags": [
+                "sorrel", "vegetables"
+            ]
+
+        },
+
+        {
+            "id": 53,
+            "title": "Sorrel",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681651758/sorrel_c5a1mz.jpg",
+            "description": "Plante annuelle, ses nombreuses variétés permettent d’en consommer de janvier à décembre.\n Avec la mâcheet la chicorée, la laitue constitue la troisième grande famille de salade.\n Peu calorique, elle vous apporte une grande variété de minéraux et d’oligo-éléments. Également riche en fibres, sa teneur en vitamine C n’est pas négligeable.\n En France, la laitue est le quatrième légume le plus produit, derrière la tomate, la carotteet le chou-fleur. Sa culture se répartit sur l’ensemble du territoire.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 1549,
+            "is_sale": false,
+            "tags": [
+                "sorrel", "vegetables"
+            ]
+
+        },
+
+        {
+            "id": 54,
+            "title": "green bean",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681571759/0000000004066_b3xk25.jpg",
+            "description": "Long thin pod, more or less stretched, the green bean is classified into 3 categories: filet, mange-tout and filet mange-tout.\n French production is mainly located in the west of the country. In winter, green beans are mainly imported from Morocco and Kenya.\n Some green beans are… yellow: butter beans!\n Boiled or steamed, green beans are delicious with eggs, and go well with both meat and fish. Il est riche en minéraux et en vitamines",
+            "category": "legumes",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 2049,
+            "is_sale": false,
+            "tags": [
+                "legumes", "green bean", "beans"
+            ]
+
+        },
+
+        {
+            "id": 55,
+            "title": "garlic",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681579912/garlic_irq1iq.jpg",
+            "description": "A head of garlic weighs 80 grams per head on average. A head contains 10 to 12 cloves. Its color covers a palette ranging from white to bright pink. Once peeled, the pod reveals a slightly shiny and very fragrant flesh.\n Its strong flavor easily integrates your savory preparations for a limited calorie intake.\n Raw or cooked, chopped, in strips or in a shirt, garlic lends itself to many gourmet variations by enhancing the taste of your recipes.\n On the stalls all year round, garlic keeps perfectly to accommodate it in all ways throughout the seasons!",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 2049,
+            "is_sale": false,
+            "tags": [
+                "vegetables", "garlic"
+            ]
+
+        },
+
+        {
+            "id": 56,
+            "title": "spinach",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681651485/spinach_bvfutw.jpg",
+            "description": "spinach is a vegetable plant whose green leaves are eaten.\n Spinach grows in just a few weeks. More resistant hybrid varieties have gradually supplanted the hardy Géant d’hiver and Monstrueux de Viroflay… \n Legend has it that spinach is extremely rich in iron. The reality is more moderate, but its fiber and vitamin intake is very interesting.",
+            "category": "vegetables",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 2049,
+            "is_sale": false,
+            "tags": [
+                "vegetables", "spinach"
+            ]
+
+        },
+
+        {
+            "id": 57,
+            "title": "Watermelon",
+            "quantity": 1,
+            "image": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681651200/watermelon_yskebs.jpg",
+            "description": "A watermelon weighs between 3 and 4 kg. This large spherical fruit covered with a thick striped green skin conceals a deep red pulp. Its flesh, slightly crunchy and not very sweet, is very thirst-quenching.\n Watermelon is very high in water and low in calories. This vitamin-rich fruit is your fitness asset on sunny days.\n This thirst-quenching fruit is delicious when crunched, cut into large, juicy and gourmet wedges. Cut into cubes or balls, watermelon goes well with other fruits, raw vegetables, mint... for refreshing recipes.\n Originally from Africa, the watermelon literally feeds on heat.\n The potato is only eaten cooked. It lends itself to many gourmet preparations, pan-fried, steamed, mashed, baked or in soup.",
+            "category": "fruits",
+            "vendor": {
+                "name": "Favorite Border",
+                "logo": "https://img.freepik.com/premium-vector/wave-letter-c-logo-design_65959-225.jpg"
+            },
+            "brand": {
+                "name": "Mvutu Products Co.",
+                "logo": "https://res.cloudinary.com/dqvbikn2c/image/upload/v1681584790/logo_nvutu_sjelb0.png"
+            },
+            "status": "In Stock",
+            "price": 2049,
+            "is_sale": false,
+            "tags": [
+                "fruits", "watermelon"
+            ]
+
+        }
+    ]
+    
+}
